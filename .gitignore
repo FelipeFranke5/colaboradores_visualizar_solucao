@@ -131,6 +131,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+cadastros.txt
 
 # Spyder project settings
 .spyderproject
@@ -220,5 +221,3 @@ pyrightconfig.json
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,python,pythonvanilla
-
-cadastros.txt
